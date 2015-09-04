@@ -1,0 +1,140 @@
+<status>OK</status>
+<route>
+<summary>Boulevard Périphérique</summary>
+<leg>
+    <step>
+        <travel_mode>DRIVING</travel_mode>
+        <start_location>
+            <lat>48.8911920</lat>
+            <lng>2.2994908</lng>
+        </start_location>
+        <end_location>
+            <lat>48.8904469</lat>
+            <lng>2.2985599</lng>
+        </end_location>
+        <polyline>
+            <points>}`liHyb`Md@v@j@`ANVDDDDFHFBTL</points>
+        </polyline>
+        <duration>
+            <value>9</value>
+            <text>1 min</text>
+        </duration>
+        <html_instructions>Head &lt;b&gt;southwest&lt;/b&gt; toward &lt;b&gt;Boulevard Périphérique&lt;/b&gt;</html_instructions>
+        <distance>
+            <value>108</value>
+            <text>0.1 km</text>
+        </distance>
+    </step>
+    <step>
+        <travel_mode>DRIVING</travel_mode>
+        <start_location>
+            <lat>48.8904469</lat>
+            <lng>2.2985599</lng>
+        </start_location>
+        <end_location>
+            <lat>48.8803911</lat>
+            <lng>2.2817604</lng>
+        </end_location>
+        <polyline>
+            <points>i|kiH_}_Mf@|@P\`AbCt@pCn@`DPjAHh@RnALbABLNjAHf@Lr@BLBH@H@@Lr@BLVlAT`AFRVx@Z|@\x@v@bB`BzCXh@Xf@fArB|BhEbB~CfDjGHNHN`AxBpBfDNVXb@X`@@BRVf@l@pBhBbDpBdCzAp@\p@R</points>
+        </polyline>
+        <duration>
+            <value>99</value>
+            <text>2 mins</text>
+        </duration>
+        <html_instructions>Merge onto &lt;b&gt;Boulevard Périphérique&lt;/b&gt;</html_instructions>
+        <distance>
+            <value>1711</value>
+            <text>1.7 km</text>
+        </distance>
+        <maneuver>merge</maneuver>
+    </step>
+    <step>
+        <travel_mode>DRIVING</travel_mode>
+        <start_location>
+            <lat>48.8803911</lat>
+            <lng>2.2817604</lng>
+        </start_location>
+        <end_location>
+            <lat>48.8773689</lat>
+            <lng>2.2794049</lng>
+        </end_location>
+        <polyline>
+            <points>m}iiH_t|L?F@D@D@B@B@BJJHHt@f@DBxCdBxCbBVNB@NJ@@FDdAr@p@l@FDFFDDFN</points>
+        </polyline>
+        <duration>
+            <value>41</value>
+            <text>1 min</text>
+        </duration>
+        <html_instructions>Take the exit toward &lt;b&gt;Maillot/Bois-de-Boulogne&lt;/b&gt;</html_instructions>
+        <distance>
+            <value>382</value>
+            <text>0.4 km</text>
+        </distance>
+        <maneuver>ramp-right</maneuver>
+    </step>
+    <step>
+        <travel_mode>DRIVING</travel_mode>
+        <start_location>
+            <lat>48.8773689</lat>
+            <lng>2.2794049</lng>
+        </start_location>
+        <end_location>
+            <lat>48.8774037</lat>
+            <lng>2.2813633</lng>
+        </end_location>
+        <polyline>
+            <points>qjiiHge|LPDL]Ni@?AFWAe@A[EQCMQi@EKAKCKEYEe@AC?IAWAU</points>
+        </polyline>
+        <duration>
+            <value>32</value>
+            <text>1 min</text>
+        </duration>
+        <html_instructions>Turn &lt;b&gt;left&lt;/b&gt; toward &lt;b&gt;Avenue de la Grande Armée&lt;/b&gt;</html_instructions>
+        <distance>
+            <value>169</value>
+            <text>0.2 km</text>
+        </distance>
+        <maneuver>turn-left</maneuver>
+    </step>
+    <step>
+        <travel_mode>DRIVING</travel_mode>
+        <start_location>
+            <lat>48.8774037</lat>
+            <lng>2.2813633</lng>
+        </start_location>
+        <end_location>
+            <lat>48.8739748</lat>
+            <lng>2.2942106</lng>
+        </end_location>
+        <polyline>
+            <points>wjiiHoq|LNYJWN_@BQFSDYJ_AA{AIu@EWK_@GM@k@Bc@Dc@L_Ar@eDp@wChAmFlByI\{AH_@p@}CFWpA}F`AoEHi@f@yBh@aC</points>
+        </polyline>
+        <duration>
+            <value>199</value>
+            <text>3 mins</text>
+        </duration>
+        <html_instructions>At the roundabout, take the &lt;b&gt;3rd&lt;/b&gt; exit onto &lt;b&gt;Avenue de la Grande Armée&lt;/b&gt;</html_instructions>
+        <distance>
+            <value>1038</value>
+            <text>1.0 km</text>
+        </distance>
+        <maneuver>roundabout-right</maneuver>
+    </step>
+    <step>
+        <travel_mode>DRIVING</travel_mode>
+        <start_location>
+            <lat>48.8739748</lat>
+            <lng>2.2942106</lng>
+        </start_location>
+        <end_location>
+            <lat>48.8724878</lat>
+            <lng>2.2962306</lng>
+        </end_location>
+        <polyline>
+            <points>iuhiHya_MB@DBD@B@D@D?B?D@FAF?FAFCFADEFCDEFEDGDIDGDIDKBIBKBK@K@K@K?M@KAM?KAI?KAICIAICICGCI|@q@XWn@e@VW</points>
+        </polyline>
+        <duration>
+            <value>57</value>
+            <text>1 min</text>
+        </duration>
